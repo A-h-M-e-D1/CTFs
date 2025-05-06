@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Tue May  6 18:35:20 2025 as: /usr/lib/nmap/nmap -sS -sV -Pn -oN nmap_result.txt 10.10.181.155
+Nmap scan report for road.thm (10.10.181.155)
+Host is up (0.26s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue May  6 18:35:47 2025 -- 1 IP address (1 host up) scanned in 27.03 seconds
