@@ -1,0 +1,13 @@
+# Nmap 7.95 scan initiated Thu May  8 14:28:20 2025 as: /usr/lib/nmap/nmap --privileged -sV -Pn -p- -sS -T5 -oN enum-srv.txt 10.10.21.109
+Warning: 10.10.21.109 giving up on port because retransmission cap hit (2).
+Nmap scan report for cmspit.thm (10.10.21.109)
+Host is up (0.16s latency).
+Not shown: 65532 closed tcp ports (reset)
+PORT      STATE    SERVICE VERSION
+22/tcp    open     ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.10 (Ubuntu Linux; protocol 2.0)
+80/tcp    open     http    Apache httpd 2.4.18 ((Ubuntu))
+29779/tcp filtered unknown
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu May  8 14:37:47 2025 -- 1 IP address (1 host up) scanned in 567.25 seconds
