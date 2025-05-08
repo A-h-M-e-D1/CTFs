@@ -1,0 +1,28 @@
+# Dirsearch started Tue May  6 17:28:19 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://road.thm/
+
+403   273B   http://road.thm/.ht_wsr.txt
+403   273B   http://road.thm/.htaccess.bak1
+403   273B   http://road.thm/.htaccess.orig
+403   273B   http://road.thm/.htaccess.sample
+403   273B   http://road.thm/.htaccess.save
+403   273B   http://road.thm/.htaccess_extra
+403   273B   http://road.thm/.htaccess_orig
+403   273B   http://road.thm/.htaccess_sc
+403   273B   http://road.thm/.htaccessBAK
+403   273B   http://road.thm/.htaccessOLD
+403   273B   http://road.thm/.htaccessOLD2
+403   273B   http://road.thm/.htm
+403   273B   http://road.thm/.html
+403   273B   http://road.thm/.htpasswd_test
+403   273B   http://road.thm/.htpasswds
+403   273B   http://road.thm/.httr-oauth
+403   273B   http://road.thm/.php
+301   305B   http://road.thm/assets    -> REDIRECTS TO: http://road.thm/assets/
+200   490B   http://road.thm/assets/
+301   309B   http://road.thm/phpMyAdmin    -> REDIRECTS TO: http://road.thm/phpMyAdmin/
+200     4KB  http://road.thm/phpMyAdmin/
+200     4KB  http://road.thm/phpMyAdmin/index.php
+403   273B   http://road.thm/server-status/
+403   273B   http://road.thm/server-status
+301   301B   http://road.thm/v2    -> REDIRECTS TO: http://road.thm/v2/
+302    20KB  http://road.thm/v2/    -> REDIRECTS TO: /v2/admin/login.html
